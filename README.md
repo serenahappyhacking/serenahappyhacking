@@ -1,63 +1,80 @@
 <!-- ════════════════════════════════════════════════════════════════════
-     agent: serena
-     type:  solo-founder / builder / operator
-     stack: agentic-ai · typescript · langgraph
-     status: shipping 🟢
+     agent:   serena
+     domain:  financial systems · agentic AI · enterprise delivery
+     status:  shipping production-grade agent infrastructure
      ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=70&lines=%24+I+build+agents+that+build+things;%24+shipping+in+prod%2C+not+in+slides;%24+one-person+company+%E2%80%94+infinite+agents)](https://git.io/typing-svg)
-
-```
-┌──────────────────────────────────────────────────────┐
-│  SERENA.AGENT                                        │
-│  ──────────────────────────────────────────────────── │
-│  role:    solo founder & full-stack AI builder        │
-│  model:   enterprise PM → indie hacker pipeline      │
-│  tools:   LangGraph · CrewAI · Claude · MCP          │
-│  output:  production-grade multi-agent systems        │
-│  uptime:  shipping daily 🟢                           │
-└──────────────────────────────────────────────────────┘
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=700&height=65&lines=Production+multi-agent+systems+for+financial+infrastructure;From+enterprise+governance+to+agentic+architecture;9%2B+years+shipping+systems+that+run+at+scale)](https://git.io/typing-svg)
 
 </div>
 
+<br>
+
+```
+serena@prod:~$ cat /etc/profile
+```
+
+```yaml
+# ─── SYSTEM PROFILE ─────────────────────────────────────────────────
+#
+#   Building production-grade multi-agent systems
+#   for financial services, investment research, and regulatory tech.
+#
+#   9+ years delivering enterprise IT at scale —
+#   now architecting the agentic layer on top of it.
+#
+#   PMP® · MSc Engineering · Bilingual (CN/EN)
+#
+# ────────────────────────────────────────────────────────────────────
+```
+
 ---
 
-## `> ls ./projects`
+```
+serena@prod:~$ ls -la ./projects --sort=priority
+```
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### [`adwing.ai`](https://github.com/serenahappyhacking/adwing-ai) &nbsp; `🟢 active`
+### [`ai-investment-system`](https://github.com/serenahappyhacking/ai-investment-system) &ensp; <img src="https://img.shields.io/badge/status-v1__complete-22C55E?style=flat-square" />
 
-**AI ad ops on autopilot for Shopify sellers.**
+**Multi-agent investment research pipeline**
 
-Agent swarm handles creative → audience → budget.
-What took a media buyer now takes a prompt.
+10 specialized agents across 4 coordinated crews
+replicate an investment bank research desk —
+data ingestion, thesis generation, risk scoring,
+and structured report output.
 
 ```
-stack: TypeScript · LangGraph.js · Vercel AI SDK · Next.js
-phase: MVP in progress · 16-week roadmap
+stack    TypeScript · LangGraph.js · LangChain.js · CrewAI
+arch     10 agents · 4 crews · LLM-as-a-Judge eval
+i/o      Zod schema validation · structured pipeline
+domain   Investment research · Equity analysis
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### [`ai-investment-system`](https://github.com/serenahappyhacking/ai-investment-system) &nbsp; `🟡 v1`
+### `agentic-compliance-infra` &ensp; <img src="https://img.shields.io/badge/status-designing-8B5CF6?style=flat-square" />
 
-**10 agents simulate a research analyst desk.**
+**Agentic compliance infrastructure for financial institutions**
 
-4 crews run the full pipeline — data ingestion,
-thesis generation, risk scoring, report output.
+Helping banks, fintech and Web3 firms translate
+regulatory requirements into enforceable, auditable
+agent checkpoints — not just monitoring, but building
+the compliance layer into the system itself.
 
 ```
-stack: TypeScript · LangGraph.js · LangChain.js · CrewAI
-arch:  10 agents · 4 crews · eval pipeline
+domain   RegTech · FinTech · Institutional Governance
+scope    HKMA/SFC framework alignment
+method   Regulation-to-code translation engine
+status   Researching · Architecture design phase
 ```
 
 </td>
@@ -65,35 +82,11 @@ arch:  10 agents · 4 crews · eval pipeline
 </tr>
 <tr>
 
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### [`banking-governance-agents`](https://github.com/serenahappyhacking/banking-governance-agents) &nbsp; `🔵 design`
+### [`adwing-ai`](https://github.com/serenahappyhacking/adwing-ai) &ensp; <img src="https://img.shields.io/badge/status-MVP-3B82F6?style=flat-square" />
 
-**6-agent governance system for banking DX.**
-
-Aligned to HKMA FinTech 2030 / DART framework.
-Where compliance meets autonomous orchestration.
-
-```
-domain: FinTech · RegTech · Governance
-spec:   HKMA-aligned · 6 agents · audit trail
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### [`video-summarizer`](https://github.com/serenahappyhacking/video-summarizer) &nbsp; `🟢 shipped`
-
-**CLI that digests video content via Claude.**
-
-Feeds YouTube / Bilibili / Xiaohongshu URLs,
-outputs structured summaries. Built for speed.
-
-```
-stack: Python · Claude API · CLI
-scope: personal tool · open source
-```
+**Agent-orchestrated advertising automation** — Multi-agent pipeline for ad operations (creative → audience → budget → optimization). Demonstrates agent orchestration patterns and structured eval loops in a commercial SaaS context. `TypeScript · LangGraph.js · Vercel AI SDK · Next.js`
 
 </td>
 
@@ -102,62 +95,59 @@ scope: personal tool · open source
 
 ---
 
-## `> cat ./capabilities.yml`
+```
+serena@prod:~$ cat ./capabilities.yml
+```
 
 ```yaml
-agentic_ai:
-  - Multi-agent orchestration (LangGraph, CrewAI)
-  - LLM-as-a-Judge evaluation pipelines
-  - MCP integration & tool-use design
-  - Zod schema validation for agent I/O
-  - Prompt engineering & chain architecture
+agentic_systems:
+  orchestration:    LangGraph.js · CrewAI · LangChain.js
+  evaluation:       LLM-as-a-Judge · layered agent assessment
+  integration:      MCP (Model Context Protocol) · tool-use design
+  reliability:      Zod schema validation · structured agent I/O
+  deployment:       Vercel AI SDK · production monitoring
+
+financial_domain:
+  investment:       Multi-agent research simulation · equity analysis pipelines
+  regtech:          HKMA FinTech 2030 / DART framework research
+  governance:       Policy-aware system design · audit trail architecture
+  direction:        Compliance-as-infrastructure for financial institutions
 
 engineering:
-  - TypeScript / JavaScript (primary)
-  - Python (tooling & automation)
-  - Next.js / React / Node.js
-  - Vercel AI SDK · LangChain.js
-  - Cursor IDE + Claude Code workflow
+  primary:          TypeScript · JavaScript · Node.js
+  secondary:        Python
+  frameworks:       Next.js · React
+  tooling:          Cursor IDE · Claude Code · Git
 
-product_&_ops:
-  - PMP® certified · 9 yrs enterprise PM
-  - Portfolio governance at scale (SOE / fintech)
-  - PRD → MVP → ship (solo founder mode)
-  - Bilingual execution (CN ↔ EN)
+enterprise_delivery:
+  certification:    PMP®
+  track_record:     9+ yrs enterprise IT portfolio governance
+  domains:          Banking/FinTech · State-owned enterprise · E-commerce
+  methodology:      Agile · Waterfall · Hybrid — whatever ships
+  scope:            Cross-functional teams · vendor ecosystems · compliance workflows
 ```
 
 ---
 
-## `> echo $CURRENT_STATUS`
-
 ```
-🏗️  building    →  AdWing.ai MVP (TypeScript / LangGraph.js)
-📡  learning    →  DeepLearning.AI — Agentic AI Specialization
-🔭  exploring   →  agent-native products × fintech × adtech
-🤝  open_to     →  collabs, code reviews, interesting problems
+serena@prod:~$ tail -f ./current.log
 ```
 
----
-
-## `> echo $PHILOSOPHY`
-
 ```
-I don't pitch decks. I push commits.
-
-9 years of managing enterprise IT taught me what breaks at scale.
-Now I build the agents that fix it.
-
-One-person company. Multi-agent workforce.
+[2026-03]  BUILDING   Production agent pipelines (TypeScript / LangGraph.js)
+[2026-03]  TRAINING   DeepLearning.AI — Agentic AI Specialization
+[2026-03]  RESEARCH   Agentic compliance infrastructure for financial institutions
+[2026-03]  OPEN TO    Production challenges, system design, hard problems at scale
 ```
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/more_about_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-&nbsp;&nbsp;
-[![AdWing.ai](https://img.shields.io/badge/adwing.ai-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)](https://adwing.ai)
+[![LinkedIn](https://img.shields.io/badge/Full_Background-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-<sub>`last_commit: March 2026 · built by serena.agent · powered by ☕ + Claude`</sub>
+<br>
+
+<sub>Systems that run at scale need people who've built them at scale.</sub>
 
 </div>
