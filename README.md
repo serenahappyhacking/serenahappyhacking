@@ -1,265 +1,163 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ✦ SERENA'S GITHUB PROFILE — Solo Founder · AI Agent Builder · PM/TPM
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════
+     agent: serena
+     type:  solo-founder / builder / operator
+     stack: agentic-ai · typescript · langgraph
+     status: shipping 🟢
+     ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ─── TYPING HEADER ──────────────────────────────────────────────────── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=70&lines=%24+I+build+agents+that+build+things;%24+shipping+in+prod%2C+not+in+slides;%24+one-person+company+%E2%80%94+infinite+agents)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+AI+Agents+that+ship+%F0%9F%9A%80;Solo+Founder+%C2%B7+PM+%C2%B7+Full-Stack+Engineer)](https://git.io/typing-svg)
-
-<!-- ─── BADGES ROW ─────────────────────────────────────────────────────── -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/AdWing.ai-Live_Demo-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)](https://adwing.ai)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-![Profile Views](https://komarev.com/ghpvc/?username=serenahappyhacking&style=flat-square&color=6366F1)
+```
+┌──────────────────────────────────────────────────────┐
+│  SERENA.AGENT                                        │
+│  ──────────────────────────────────────────────────── │
+│  role:    solo founder & full-stack AI builder        │
+│  model:   enterprise PM → indie hacker pipeline      │
+│  tools:   LangGraph · CrewAI · Claude · MCP          │
+│  output:  production-grade multi-agent systems        │
+│  uptime:  shipping daily 🟢                           │
+└──────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 1 — ABOUT
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## `$ whoami`
-
-```yaml
-name:       Serena
-location:   Beijing → Hong Kong
-role:       Solo Founder & AI Agent Builder
-background: 9+ yrs in IT Project Management & Software Engineering
-education:  MSc Electrical & Electronic Eng — University of Melbourne
-cert:       PMP® Certified
-focus:      Agentic AI · LLM Orchestration · Digital Transformation
-```
-
-> **I build production-grade AI multi-agent systems and ship them as products.**
->
-> Former PM/Tech Lead at **Higher Education Press** (MoE), **ICBC Technology**, **JD.com** & **NetEase**.
-> Now channeling enterprise experience into a solo-founder journey —
-> designing AI-powered tools that solve real business problems.
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 2 — FLAGSHIP PROJECTS (THE "SHOP WINDOW")
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏪 Project Showcase
+## `> ls ./projects`
 
 <table>
 <tr>
 
-<!-- PROJECT CARD 1 -->
 <td width="50%" valign="top">
 
-### 🚀 [AdWing.ai](https://github.com/serenahappyhacking/adwing-ai)
+### [`adwing.ai`](https://github.com/serenahappyhacking/adwing-ai) &nbsp; `🟢 active`
 
-**AI-Powered Advertising Automation SaaS**
+**AI ad ops on autopilot for Shopify sellers.**
 
-Intelligent ad management for Shopify D2C sellers.
-AI agents handle creative generation, audience targeting,
-budget optimization — what used to take a media buyer
-now runs on autopilot.
+Agent swarm handles creative → audience → budget.
+What took a media buyer now takes a prompt.
 
-`TypeScript` `LangGraph.js` `Vercel AI SDK` `Next.js`
-
-<sub>📋 PRD Complete · 🏗️ MVP In Progress · 16-week Roadmap</sub>
+```
+stack: TypeScript · LangGraph.js · Vercel AI SDK · Next.js
+phase: MVP in progress · 16-week roadmap
+```
 
 </td>
 
-<!-- PROJECT CARD 2 -->
 <td width="50%" valign="top">
 
-### 🧠 [AI Investment Analyst](https://github.com/serenahappyhacking/ai-investment-system)
+### [`ai-investment-system`](https://github.com/serenahappyhacking/ai-investment-system) &nbsp; `🟡 v1`
 
-**Multi-Agent Research Simulation System**
+**10 agents simulate a research analyst desk.**
 
-10 specialized agents in 4 crews simulate
-investment bank research analysts — from data
-ingestion to thesis generation to risk assessment.
+4 crews run the full pipeline — data ingestion,
+thesis generation, risk scoring, report output.
 
-`TypeScript` `LangGraph.js` `LangChain.js` `CrewAI`
-
-<sub>🤖 10 Agents · 4 Crews · Production Architecture</sub>
+```
+stack: TypeScript · LangGraph.js · LangChain.js · CrewAI
+arch:  10 agents · 4 crews · eval pipeline
+```
 
 </td>
 
 </tr>
 <tr>
 
-<!-- PROJECT CARD 3 -->
 <td width="50%" valign="top">
 
-### 🏦 [Banking Governance Agent System](https://github.com/serenahappyhacking/banking-governance-agents)
+### [`banking-governance-agents`](https://github.com/serenahappyhacking/banking-governance-agents) &nbsp; `🔵 design`
 
-**HKMA-Aligned Transformation Framework**
+**6-agent governance system for banking DX.**
 
-6-agent system designed for banking digital
-transformation governance, aligned with
-HKMA FinTech 2030 / DART framework.
+Aligned to HKMA FinTech 2030 / DART framework.
+Where compliance meets autonomous orchestration.
 
-`Multi-Agent` `Governance` `FinTech` `Compliance`
-
-<sub>📐 System Design · 🎯 HKMA Framework Aligned</sub>
+```
+domain: FinTech · RegTech · Governance
+spec:   HKMA-aligned · 6 agents · audit trail
+```
 
 </td>
 
-<!-- PROJECT CARD 4 -->
 <td width="50%" valign="top">
 
-### 🎬 [Video Summarizer CLI](https://github.com/serenahappyhacking/video-summarizer)
+### [`video-summarizer`](https://github.com/serenahappyhacking/video-summarizer) &nbsp; `🟢 shipped`
 
-**AI-Powered Content Digest Tool**
+**CLI that digests video content via Claude.**
 
-Custom Python CLI that summarizes YouTube,
-Bilibili & Xiaohongshu videos using the
-Claude API. Built for personal productivity.
+Feeds YouTube / Bilibili / Xiaohongshu URLs,
+outputs structured summaries. Built for speed.
 
-`Python` `Claude API` `CLI` `Content Processing`
-
-<sub>⚡ Ship fast, learn faster</sub>
+```
+stack: Python · Claude API · CLI
+scope: personal tool · open source
+```
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 3 — TECH STACK
-     ═══════════════════════════════════════════════════════════════════════════ -->
+## `> cat ./capabilities.yml`
 
-## ⚡ Tech Arsenal
+```yaml
+agentic_ai:
+  - Multi-agent orchestration (LangGraph, CrewAI)
+  - LLM-as-a-Judge evaluation pipelines
+  - MCP integration & tool-use design
+  - Zod schema validation for agent I/O
+  - Prompt engineering & chain architecture
 
-<div align="center">
+engineering:
+  - TypeScript / JavaScript (primary)
+  - Python (tooling & automation)
+  - Next.js / React / Node.js
+  - Vercel AI SDK · LangChain.js
+  - Cursor IDE + Claude Code workflow
 
-**🤖 AI & Agent Frameworks**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-4A90D9?style=for-the-badge&logoColor=white)
-
-**💻 Languages & Frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**🛠️ DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-
-**📋 PM & Governance**
-
-![PMP](https://img.shields.io/badge/PMP®_Certified-003366?style=for-the-badge&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logoColor=white)
-![Portfolio Mgmt](https://img.shields.io/badge/Portfolio_Governance-2D3748?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 4 — WHAT MAKES ME DIFFERENT
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🎯 What Sets Me Apart
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🔷 ENTERPRISE + STARTUP HYBRID                                   │
-│      9 yrs managing million-dollar IT portfolios at SOEs            │
-│      + now shipping AI products as a solo founder                   │
-│                                                                     │
-│   🔷 FULL-STACK AI BUILDER                                         │
-│      Not just prompting — architecting multi-agent pipelines        │
-│      with LangGraph, evaluation frameworks (LLM-as-a-Judge),       │
-│      and production deployment workflows                            │
-│                                                                     │
-│   🔷 BRIDGING CHINA ↔ GLOBAL                                       │
-│      Bilingual (CN/EN) · Melbourne MSc · HK ID + AU PR             │
-│      Unique positioning for cross-border AI product roles           │
-│                                                                     │
-│   🔷 PM WHO CODES                                                  │
-│      PMP-certified project manager who writes TypeScript daily      │
-│      Rare combination of governance discipline + builder speed      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+product_&_ops:
+  - PMP® certified · 9 yrs enterprise PM
+  - Portfolio governance at scale (SOE / fintech)
+  - PRD → MVP → ship (solo founder mode)
+  - Bilingual execution (CN ↔ EN)
 ```
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 5 — GITHUB STATS
-     ═══════════════════════════════════════════════════════════════════════════ -->
+## `> echo $CURRENT_STATUS`
 
-## 📊 GitHub Stats
+```
+🏗️  building    →  AdWing.ai MVP (TypeScript / LangGraph.js)
+📡  learning    →  DeepLearning.AI — Agentic AI Specialization
+🔭  exploring   →  agent-native products × fintech × adtech
+🤝  open_to     →  collabs, code reviews, interesting problems
+```
 
-<div align="center">
+---
 
-<a href="https://github.com/serenahappyhacking">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serenahappyhacking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-</a>
-<a href="https://github.com/serenahappyhacking">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenahappyhacking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</a>
+## `> echo $PHILOSOPHY`
 
-<br>
+```
+I don't pitch decks. I push commits.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serenahappyhacking&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+9 years of managing enterprise IT taught me what breaks at scale.
+Now I build the agents that fix it.
 
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 6 — CURRENTLY
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🔭 Currently
-
-- 🏗️ **Building** — AdWing.ai MVP (TypeScript/LangGraph.js)
-- 📚 **Learning** — DeepLearning.AI Agentic AI Specialization
-- 🎯 **Exploring** — AI Product / TPM / Solutions Architect roles in **Hong Kong**
-- 🤝 **Open to** — Collaborations on agentic AI, FinTech, or adtech projects
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SECTION 7 — CONNECT
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**Whether you're a recruiter, investor, potential collaborator, or fellow builder —**
-**I'd love to chat about AI agents, product strategy, or the solo-founder journey.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![AdWing.ai](https://img.shields.io/badge/AdWing.ai-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adwing.ai)
-
-</div>
+One-person company. Multi-agent workforce.
+```
 
 ---
 
 <div align="center">
 
-<sub>🛠️ Built with ❤️ by a PM who codes · Last updated March 2026</sub>
+[![LinkedIn](https://img.shields.io/badge/more_about_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;&nbsp;
+[![AdWing.ai](https://img.shields.io/badge/adwing.ai-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)](https://adwing.ai)
+
+<sub>`last_commit: March 2026 · built by serena.agent · powered by ☕ + Claude`</sub>
 
 </div>
